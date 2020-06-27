@@ -10,6 +10,8 @@ DB_DATABASE=TestApp
 DB_USERNAME=root
 DB_PASSWORD=Welcome@1
 
-4. After this run this command - "php artisan migrate", this command will create 4 tables along with their respective fields
+4. Run "composer install", this will install required dependencies.
 
-5. Finally run this command to serve on your local machine - "php artisan serve"
+5. After this run this command - "php artisan migrate", this command will create 4 tables along with their respective fields
+
+6. Finally run this command to serve on your local machine - "php artisan serve"
